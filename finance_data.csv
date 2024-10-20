@@ -1,0 +1,32 @@
+date,amount,category,description
+01-07-2024,50.00,Expense,Groceries
+02-07-2024,120.00,Income,Freelance Work
+03-07-2024,30.00,Expense,Coffee
+04-07-2024,200.00,Income,Side Gig
+05-07-2024,1500.00,Income,Salary
+06-07-2024,45.00,Expense,Transportation
+07-07-2024,75.00,Expense,Groceries
+08-07-2024,100.00,Income,Gift
+09-07-2024,35.00,Expense,Snacks
+10-07-2024,200.00,Income,Freelance Work
+11-07-2024,60.00,Expense,Dinner Out
+12-07-2024,250.00,Expense,Utilities
+13-07-2024,120.00,Income,Stock Dividends
+14-07-2024,20.00,Expense,Coffee
+15-07-2024,1800.00,Income,Salary
+16-07-2024,80.00,Expense,Clothing
+17-07-2024,25.00,Expense,Books
+18-07-2024,300.00,Expense,Rent
+19-07-2024,130.00,Expense,Transportation
+20-07-2024,250.50,Income,Stock Dividends
+21-07-2024,40.00,Expense,Entertainment
+22-07-2024,150.00,Income,Freelance Work
+23-07-2024,45.00,Expense,Groceries
+24-07-2024,300.00,Income,Side Gig
+25-07-2024,60.00,Expense,Transportation
+26-07-2024,25.00,Expense,Coffee
+27-07-2024,200.00,Income,Freelance Work
+28-07-2024,125.00,Income,Side Gig
+29-07-2024,50.00,Expense,Dining Out
+30-07-2024,100.00,Expense,Clothing
+31-07-2024,500.00,Income,Freelance Work
